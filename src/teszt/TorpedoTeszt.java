@@ -1,4 +1,6 @@
-package main;
+package teszt;
+
+import model.Hajo;
 
 public class TorpedoTeszt {
 
